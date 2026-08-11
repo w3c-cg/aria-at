@@ -1,8 +1,8 @@
 refId,type,value,linkText
 author,metadata,Isabel Del Castillo,
 authorEmail,metadata,isa.delcastillo5@gmail.com,
-title,metadata,Checkbox (Tri-State),
-reference,metadata,reference/2026-8-11_154845/checkbox-mixed.html,Test Case Page for Checkbox (Tri-State)
+title,metadata,Checkbox (Mixed-State),
+reference,metadata,reference/2026-8-11_154845/checkbox-mixed.html,Test Case Page for Checkbox (Mixed-State)
 designPattern,metadata,https://www.w3.org/WAI/ARIA/apg/patterns/checkbox/,APG Pattern: Checkbox
 example,metadata,https://www.w3.org/WAI/ARIA/apg/patterns/checkbox/examples/checkbox-mixed/,APG Example: Checkbox  (Mixed-State)
 checkbox,aria,checkbox,checkbox
