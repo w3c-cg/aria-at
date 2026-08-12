@@ -13,20 +13,20 @@ reqInfoAboutMixedCheckbox,ins+tab,browseMode,,7
 reqInfoAboutMixedCheckbox,ins+up,browseMode,0:roleGroup 0:nameSandwichCondiments ,7.1
 reqInfoAboutMixedCheckbox,ins+tab,focusMode,,7.2
 reqInfoAboutMixedCheckbox,ins+up,focusMode,0:roleGroup 0:nameSandwichCondiments ,7.3
-reqInfoAboutMixedCheckboxThatIsNotChecked,ins+tab,virtualCursor,,8
-reqInfoAboutMixedCheckboxThatIsNotChecked,ins+up,virtualCursor,0:roleGroup 0:nameSandwichCondiments ,8.1
-reqInfoAboutMixedCheckboxThatIsNotChecked,ins+tab,pcCursor,,8.2
-reqInfoAboutMixedCheckboxThatIsNotChecked,ins+up,pcCursor,0:roleGroup 0:nameSandwichCondiments,8.3
-reqInfoAboutMixedCheckboxThatIsChecked,ins+tab,virtualCursor,,9
-reqInfoAboutMixedCheckboxThatIsChecked,ins+up,virtualCursor,0:roleGroup 0:nameSandwichCondiments,9.1
-reqInfoAboutMixedCheckboxThatIsChecked,ins+tab,pcCursor,,9.2
-reqInfoAboutMixedCheckboxThatIsChecked,ins+up,pcCursor,0:roleGroup 0:nameSandwichCondiments,9.3
+reqInfoAboutMixedCheckboxThatIsNotChecked,ins+tab,browseMode,,8
+reqInfoAboutMixedCheckboxThatIsNotChecked,ins+up,browseMode,0:roleGroup 0:nameSandwichCondiments ,8.1
+reqInfoAboutMixedCheckboxThatIsNotChecked,ins+tab,focusMode,,8.2
+reqInfoAboutMixedCheckboxThatIsNotChecked,ins+up,focusMode,0:roleGroup 0:nameSandwichCondiments,8.3
+reqInfoAboutMixedCheckboxThatIsChecked,ins+tab,browseMode,,9
+reqInfoAboutMixedCheckboxThatIsChecked,ins+up,browseMode,0:roleGroup 0:nameSandwichCondiments,9.1
+reqInfoAboutMixedCheckboxThatIsChecked,ins+tab,focusMode,,9.2
+reqInfoAboutMixedCheckboxThatIsChecked,ins+up,focusMode,0:roleGroup 0:nameSandwichCondiments,9.3
 operateMixedCheckbox,enter,browseMode,,10
 operateMixedCheckbox,space,focusMode,,10.1
 operateMixedCheckbox,space,focusMode,,10.2
 operateUncheckedCheckbox,enter,browseMode,,13
 operateUncheckedCheckbox,space,browseMode,,13.1
 operateUncheckedCheckbox,space,focusMode,,13.2
-operateCheckedCheckbox,enter,virtualCursor,,14
-operateCheckedCheckbox,space,pcCursor,,14.1
-operateCheckedCheckbox,space,pcCursor,,14.2
+operateCheckedCheckbox,enter,browseMode,,14
+operateCheckedCheckbox,space,focusMode,,14.1
+operateCheckedCheckbox,space,focusMode,,14.2

@@ -7,7 +7,7 @@ roleCheckbox,1,Role 'checkbox' is conveyed,convey role 'checkbox',checkbox
 roleGroup,2,Role 'group' is conveyed,convey role 'group',fieldset
 roleLink,1,Role 'link' is conveyed,convey role 'link',htmlLink
 stateChangeToChecked,1,Change in state of the checkbox to 'checked' is conveyed,convey change in state of the checkbox to 'checked',aria-checked
-stateChangeToMixed,1,Change in state of the checkbox to 'mixed' is conveyed,convey change in state of the checkbox to 'mixed',aria-checked
+stateChangeToMixed,1,Change in state of the checkbox to 'partially checked' is conveyed,convey change in state of the checkbox to 'partially checked',aria-checked
 stateChangeToUnchecked,1,Change in state of the checkbox to 'unchecked' is conveyed,convey change in state of the checkbox to 'unchecked',aria-checked
 stateMixed,1,"State of the checkbox, 'partially checked', is conveyed","convey state of the checkbox, partially checked'",aria-checked
 stateChecked,1,"State of the checkbox, 'checked', is conveyed","convey state of the checkbox, 'checked'",aria-checked
