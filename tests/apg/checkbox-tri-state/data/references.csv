@@ -6,5 +6,7 @@ reference,metadata,reference/2026-8-11_154845/checkbox-mixed.html,Test Case Page
 designPattern,metadata,https://www.w3.org/WAI/ARIA/apg/patterns/checkbox/,APG Pattern: Checkbox
 example,metadata,https://www.w3.org/WAI/ARIA/apg/patterns/checkbox/examples/checkbox-mixed/,APG Example: Checkbox  (Mixed-State)
 checkbox,aria,checkbox,checkbox
-aria-controls,aria,aria-controls,aria-controls
 aria-checked,aria,aria-checked,aria-checked
+htmlLink,htmlAam,a,a (hyperlink)
+fieldset,htmlAam,fieldset,fieldset
+legend,htmlAam,legend,legend

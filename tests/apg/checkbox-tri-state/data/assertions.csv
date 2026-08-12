@@ -1,13 +1,14 @@
 assertionId,priority,assertionStatement,assertionPhrase,refIds
-groupBoundary,1,Group boundary is conveyed,convey group boundary,
-nameAllCondiments,1,Name ' All condiments' is conveyed,convey name ' All condiments',
-nameAllCondiments,1,Name 'All condiments' is conveyed,convey name 'All condiments',
-nameNavigateBackFromHere,1,Name 'Navigate backwards from here' is conveyed,convey name 'Navigate backwards from here',
-nameNavigateForwardsFromHere,1,Name 'Navigate forwards from here' is conveyed,convey name 'Navigate forwards from here',
-nameSandwichCondiments,2,Name 'Sandwich Condiments' is conveyed,convey name 'Sandwich Condiments',
-roleCheckbox,1,Role 'checkbox' is conveyed,convey role 'checkbox',
-roleGroup,2,Role 'group' is conveyed,convey role 'group',
-roleLink,1,Role 'link' is conveyed,convey role 'link',
-stateChangeToChecked,1,"Change in state, to 'checked', is conveyed","convey change in state, to 'checked'",
-stateChangeToMixed,1,"Change in state, to 'mixed', is conveyed","convey change in state, to 'mixed'",
-stateMixed,1,State 'mixed' is conveyed,convey state 'mixed',
+nameAllCondiments,1,"Name of the checkbox, 'All condiments', is conveyed","convey name of the checkbox, 'All condiments'",checkbox
+nameNavigateBackFromHere,1,"Name of the link, 'Navigate backwards from here', is conveyed","convey name of the link, 'Navigate backwards from here'",htmlLink
+nameNavigateForwardsFromHere,1,"Name of the link, 'Navigate forwards from here', is conveyed","convey name of the link, 'Navigate forwards from here'",htmlLink
+nameSandwichCondiments,2,"Name of the group, 'Sandwich Condiments', is conveyed","convey name of the group, 'Sandwich Condiments'",legend
+roleCheckbox,1,Role 'checkbox' is conveyed,convey role 'checkbox',checkbox
+roleGroup,2,Role 'group' is conveyed,convey role 'group',fieldset
+roleLink,1,Role 'link' is conveyed,convey role 'link',htmlLink
+stateChangeToChecked,1,Change in state of the checkbox to 'checked' is conveyed,convey change in state of the checkbox to 'checked',aria-checked
+stateChangeToMixed,1,Change in state of the checkbox to 'mixed' is conveyed,convey change in state of the checkbox to 'mixed',aria-checked
+stateChangeToUnchecked,1,Change in state of the checkbox to 'unchecked' is conveyed,convey change in state of the checkbox to 'unchecked',aria-checked
+stateMixed,1,"State of the checkbox, 'partially checked', is conveyed","convey state of the checkbox, partially checked'",aria-checked
+stateChecked,1,"State of the checkbox, 'checked', is conveyed","convey state of the checkbox, 'checked'",aria-checked
+stateUnchecked,3,"State of the checkbox, 'unchecked', is conveyed","convey state of the checkbox, 'unchecked'",aria-checked

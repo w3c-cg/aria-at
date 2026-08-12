@@ -1,17 +1,19 @@
 testId,command,settings,assertionExceptions,presentationNumber
-navForwardsToMixedCheckbox,ctrl+opt+right ctrl+opt+right ctrl+opt+right,,,3.0
+navForwardsToMixedCheckbox,ctrl+opt+right ctrl+opt+right,,,3
 navForwardsToMixedCheckbox,tab,,,3.1
-navForwardsToMixedCheckbox,j  j,quickNavOn,,3.2
-navBackToMixedCheckbox,ctrl+opt+left ctrl+opt+left ctrl+opt+left,,,6.0
+navForwardsToMixedCheckbox,j ,quickNavOn,,3.2
+navBackToMixedCheckbox,ctrl+opt+left,,,6
 navBackToMixedCheckbox,shift+tab,,,6.1
-navBackToMixedCheckbox,j,quickNavOn,,6.2
-reqInfoAboutMixedCheckbox,ctrl+opt+f3,,,9.0
+navBackToMixedCheckbox,shift+j,quickNavOn,,6.2
+reqInfoAboutMixedCheckbox,ctrl+opt+f3,,,9
 reqInfoAboutMixedCheckbox,ctrl+opt+f4,,,9.1
-operateMixedCheckbox,ctrl+opt+space,,,12.0
+reqInfoAboutMixedCheckboxThatIsNotChecked,ctrl+opt+f3,,,10
+reqInfoAboutMixedCheckboxThatIsNotChecked,ctrl+opt+f4,,0:roleGroup 0:nameSandwichCondiments,10.1
+reqInfoAboutMixedCheckboxThatIsChecked,ctrl+opt+f3,,,11
+reqInfoAboutMixedCheckboxThatIsChecked,ctrl+opt+f4,,0:roleGroup 0:nameSandwichCondiments,11.1
+operateMixedCheckbox,ctrl+opt+space,,,12
 operateMixedCheckbox,space,,,12.1
-operateUncheckedCheckbox,ctrl+opt+space,,,15.0
+operateUncheckedCheckbox,ctrl+opt+space,,,15
 operateUncheckedCheckbox,space,,,15.1
-navForwardsOutCheckboxGroup,ctrl+opt+right ctrl+opt+right,,,18.0
-navForwardsOutCheckboxGroup,l,quickNavOn,,18.1
-navBackOutCheckboxGroup,ctrl+opt+left ctrl+opt+left ctrl+opt+left,,,21.0
-navBackOutCheckboxGroup,l,quickNavOn,,21.1
+operateCheckedCheckbox,ctrl+opt+space,,,16
+operateCheckedCheckbox,space,,,16.1
