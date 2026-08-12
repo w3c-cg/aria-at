@@ -1,0 +1,6 @@
+setupScript,setupScriptDescription
+setFocusAfterButton,sets focus on a link after the button
+setFocusAfterDisabledButton,sets focus on a link after the disabled button
+setFocusBeforeButton,sets focus on a link before the button
+setFocusBeforeDisabledButton,sets focus on a link before the disabled button
+setFocusOnButton,sets focus on the button
