@@ -9,9 +9,3 @@ navBackToButton,shift+tab,,,6.1
 navBackToButton,shift+j,singleQuickKeyNavOn,,6.2
 reqInfoAboutButton,ctrl+opt+f3,,,9
 reqInfoAboutButton,ctrl+opt+f4,,,9.1
-navForwardsToDisabledButton,ctrl+opt+right,,,10
-navForwardsToDisabledButton,j,singleQuickKeyNavOn,,10.1
-navForwardsToDisabledButton,b,singleQuickKeyNavOn,,10.2
-navBackToDisabledButton,ctrl+opt+left,,,11
-navBackToDisabledButton,shift+j,singleQuickKeyNavOn,,11.1
-navBackToDisabledButton,shift+b,singleQuickKeyNavOn,,11.2

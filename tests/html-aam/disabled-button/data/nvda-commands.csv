@@ -1,0 +1,7 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToDisabledButton,down,browseMode,,9.0
+navForwardsToDisabledButton,b,browseMode,,9.1
+navForwardsToDisabledButton,f,browseMode,,9.2
+navBackToDisabledButton,up,browseMode,,10.0
+navBackToDisabledButton,shift+b,browseMode,,10.1
+navBackToDisabledButton,shift+f,browseMode,,10.2

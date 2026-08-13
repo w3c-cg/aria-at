@@ -1,0 +1,7 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToDisabledButton,down,virtualCursor,,9.0
+navForwardsToDisabledButton,b,virtualCursor,,9.1
+navForwardsToDisabledButton,f,virtualCursor,,9.2
+navBackToDisabledButton,up,virtualCursor,,10.0
+navBackToDisabledButton,shift+b,virtualCursor,,10.1
+navBackToDisabledButton,shift+f,virtualCursor,,10.2

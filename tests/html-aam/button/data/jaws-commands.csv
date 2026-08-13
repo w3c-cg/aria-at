@@ -13,9 +13,3 @@ reqInfoAboutButton,ins+tab,virtualCursor,,7.0
 reqInfoAboutButton,ins+up,virtualCursor,,7.1
 reqInfoAboutButton,ins+tab,pcCursor,,8.0
 reqInfoAboutButton,ins+up,pcCursor,,8.1
-navForwardsToDisabledButton,down,virtualCursor,,9.0
-navForwardsToDisabledButton,b,virtualCursor,,9.1
-navForwardsToDisabledButton,f,virtualCursor,,9.2
-navBackToDisabledButton,up,virtualCursor,,10.0
-navBackToDisabledButton,shift+b,virtualCursor,,10.1
-navBackToDisabledButton,shift+f,virtualCursor,,10.2

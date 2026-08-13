@@ -1,0 +1,2 @@
+assertionId,priority,assertionStatement,assertionPhrase,refIds
+stateDisabled,1,State 'disabled' is conveyed,convey state 'disabled',@disabled
