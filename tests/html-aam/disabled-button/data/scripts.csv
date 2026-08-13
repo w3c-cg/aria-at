@@ -1,4 +1,3 @@
 setupScript,setupScriptDescription
 setFocusAfterDisabledButton,sets focus on a link after the disabled button
 setFocusBeforeDisabledButton,sets focus on a link before the disabled button
-

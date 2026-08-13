@@ -1,3 +1,6 @@
 testId,title,presentationNumber,setupScript,instructions,assertions
 navForwardsToDisabledButton,Navigate forwards to a disabled button,12,setFocusBeforeDisabledButton,"Starting at the 'Navigate forwards from here' link, navigate to the 'Print Page' button.",roleButton namePrintPage stateDisabled
 navBackToDisabledButton,Navigate backwards to a disabled button,13,setFocusAfterDisabledButton,"Starting at the 'Navigate backwards from here' link, navigate to the 'Print Page' button.",roleButton namePrintPage stateDisabled
+reqInfoAboutDisabledButton,Request information about a button,9,
+setFocusOnDisabledButton,"Starting at the 'Print Page' button, read information 
+about the disabled button.",roleButton namePrintPage stateDisabled

@@ -1,7 +1,11 @@
 testId,command,settings,assertionExceptions,presentationNumber
-navForwardsToDisabledButton,ctrl+opt+right,,,10
-navForwardsToDisabledButton,j,singleQuickKeyNavOn,,10.1
-navForwardsToDisabledButton,b,singleQuickKeyNavOn,,10.2
-navBackToDisabledButton,ctrl+opt+left,,,11
-navBackToDisabledButton,shift+j,singleQuickKeyNavOn,,11.1
-navBackToDisabledButton,shift+b,singleQuickKeyNavOn,,11.2
+navForwardsToDisabledButton,ctrl+opt+right,,,5
+navForwardsToDisabledButton,b,singleQuickKeyNavOn,,5.3
+navForwardsToDisabledButton,tab,,,5.1
+navForwardsToDisabledButton,j,singleQuickKeyNavOn,,5.2
+navBackToDisabledButton,ctrl+opt+left,,,6
+navBackToDisabledButton,shift+b,singleQuickKeyNavOn,,6.3
+navBackToDisabledButton,shift+tab,,,6.1
+navBackToDisabledButton,shift+j,singleQuickKeyNavOn,,6.2
+reqInfoAboutDisabledButton,ctrl+opt+f3,,,9
+reqInfoAboutDisabledButton,ctrl+opt+f4,,,9.1
