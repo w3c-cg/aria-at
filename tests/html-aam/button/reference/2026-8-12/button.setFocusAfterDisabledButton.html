@@ -8,9 +8,9 @@
 <script>
   (function() {
     function setupScript(testPageDocument) {
-      // setFocusBeforeButton
-      // sets focus on a link before the button
-      testPageDocument.querySelector('#beforelink').focus();
+      // setFocusAfterDisabledButton
+      // sets focus on a link after the disabled button
+      testPageDocument.querySelector('#afterlink-disabled').focus();
 
     };
     document.addEventListener('click', function(event) {
