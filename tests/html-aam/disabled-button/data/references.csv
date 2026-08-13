@@ -2,8 +2,8 @@ refId,type,value,linkText
 author,metadata,Lola,
 authorEmail,metadata,lola@lolaslab.co,
 title,metadata,Native Disabled Button Element,
-reference,metadata,reference/2026-8-12/disabled-button.html,Test Case Page for
-Native Disabled Button Element
+reference,metadata,reference/2026-8-12/disabled-button.html,Test Case Page for Native Disabled Button Element
 designPattern,metadata,,
 example,metadata,,
 @disabled,htmlAam,@disabled,@disabled
+button,htmlAam,button,button
