@@ -22,11 +22,11 @@ reqInfoAboutMixedCheckboxThatIsChecked,ins+up,browseMode,0:roleGroup 0:nameSandw
 reqInfoAboutMixedCheckboxThatIsChecked,ins+tab,focusMode,,9.2
 reqInfoAboutMixedCheckboxThatIsChecked,ins+up,focusMode,0:roleGroup 0:nameSandwichCondiments,9.3
 operateMixedCheckbox,enter,browseMode,,10
-operateMixedCheckbox,space,focusMode,,10.1
+operateMixedCheckbox,space,browseMode,,10.1
 operateMixedCheckbox,space,focusMode,,10.2
 operateUncheckedCheckbox,enter,browseMode,,13
 operateUncheckedCheckbox,space,browseMode,,13.1
 operateUncheckedCheckbox,space,focusMode,,13.2
 operateCheckedCheckbox,enter,browseMode,,14
-operateCheckedCheckbox,space,focusMode,,14.1
+operateCheckedCheckbox,space,browseMode,,14.1
 operateCheckedCheckbox,space,focusMode,,14.2

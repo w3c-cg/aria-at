@@ -25,8 +25,8 @@ operateMixedCheckbox,enter,virtualCursor,,10
 operateMixedCheckbox,space,virtualCursor,,10.1
 operateMixedCheckbox,space,pcCursor,,10.2
 operateUncheckedCheckbox,enter,virtualCursor,,13
-operateUncheckedCheckbox,space,pcCursor,,13.1
+operateUncheckedCheckbox,space,virtualCursor,,13.1
 operateUncheckedCheckbox,space,pcCursor,,13.2
 operateCheckedCheckbox,enter,virtualCursor,,14
-operateCheckedCheckbox,space,pcCursor,,14.1
+operateCheckedCheckbox,space,virtualCursor,,14.1
 operateCheckedCheckbox,space,pcCursor,,14.2
