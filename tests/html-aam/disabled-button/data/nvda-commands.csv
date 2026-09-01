@@ -1,0 +1,15 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToDisabledButton,down,browseMode,,1.0
+navForwardsToDisabledButton,b,browseMode,,1.1
+navForwardsToDisabledButton,f,browseMode,,1.2
+navForwardsToDisabledButton,tab,browseMode,,1.3
+navForwardsToDisabledButton,tab,focusMode,,1.4
+navBackToDisabledButton,up,browseMode,,2.0
+navBackToDisabledButton,shift+b,browseMode,,2.1
+navBackToDisabledButton,shift+f,browseMode,,2.2
+navBackToDisabledButton,shift+tab,browseMode,,2.3
+navBackToDisabledButton,shift+tab,focusMode,,4.0
+reqInfoAboutDisabledButton,ins+tab,browseMode,,7.0
+reqInfoAboutDisabledButton,ins+up,browseMode,,7.1
+reqInfoAboutDisabledButton,ins+tab,focusMode,,8.0
+reqInfoAboutDisabledButton,ins+up,focusMode,,8.1
