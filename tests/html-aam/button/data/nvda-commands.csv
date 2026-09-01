@@ -7,8 +7,8 @@ navBackToButton,up,browseMode,,2.0
 navBackToButton,shift+b,browseMode,,2.1
 navBackToButton,shift+f,browseMode,,2.2
 navBackToButton,shift+tab,browseMode,,2.3
-navForwardsToButton,tab,focusMode,,3.0
-navBackToButton,shift+tab,focusMode,,4.0
+navForwardsToButton,tab,focusMode,,1.4
+navBackToButton,shift+tab,focusMode,,2.4
 reqInfoAboutButton,ins+tab,browseMode,,7.0
 reqInfoAboutButton,ins+up,browseMode,,7.1
 reqInfoAboutButton,ins+tab,focusMode,,8.0
