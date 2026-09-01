@@ -1,4 +1,0 @@
-assertionId,priority,assertionStatement,assertionPhrase,refIds
-namePrintPage,1,Name 'Print Page' is conveyed,convey name 'Print Page',button
-roleButton,1,Role 'button' is conveyed,convey role 'button',button
-stateDisabled,1,State 'disabled' is conveyed,convey state 'disabled',@disabled
