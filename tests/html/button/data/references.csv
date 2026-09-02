@@ -1,8 +1,8 @@
 refId,type,value,linkText
 author,metadata,Lola,
 authorEmail,metadata,lola@lolaslab.co,
-title,metadata,Native Button Element,
+title,metadata,HTML Button Element,
 reference,metadata,reference/2026-8-12/button.html,Test Case Page for Native Button Element
-designPattern,metadata,,
-example,metadata,,
+designPattern,metadata,https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button#content,MDN Button Reference
+example,metadata,https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button#examples_2,MDN Button Examples
 button,htmlAam,button,button
