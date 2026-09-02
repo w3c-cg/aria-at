@@ -1,0 +1,11 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToButton,ctrl+opt+right,,,5
+navForwardsToButton,tab,,,5.1
+navForwardsToButton,j,singleQuickKeyNavOn,,5.2
+navForwardsToButton,b,singleQuickKeyNavOn,,5.3
+navBackToButton,ctrl+opt+left,,,6
+navBackToButton,shift+tab,,,6.1
+navBackToButton,shift+j,singleQuickKeyNavOn,,6.2
+navBackToButton,shift+b,singleQuickKeyNavOn,,6.3
+reqInfoAboutButton,ctrl+opt+f3,,,9
+reqInfoAboutButton,ctrl+opt+f4,,,9.1

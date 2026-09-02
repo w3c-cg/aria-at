@@ -1,0 +1,3 @@
+assertionId,priority,assertionStatement,assertionPhrase,refIds
+namePrintPage,1,"Name of the button, 'Print Page', is conveyed","convey name of the button, 'Print Page'",button
+roleButton,1,Role 'button' is conveyed,convey role 'button',button
