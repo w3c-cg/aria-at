@@ -8,9 +8,9 @@ navBackToMixedCheckbox,shift+j,quickNavOn,,6.2
 reqInfoAboutMixedCheckbox,ctrl+opt+f3,,,9
 reqInfoAboutMixedCheckbox,ctrl+opt+f4,,,9.1
 reqInfoAboutMixedCheckboxThatIsNotChecked,ctrl+opt+f3,,,10
-reqInfoAboutMixedCheckboxThatIsNotChecked,ctrl+opt+f4,,0:roleGroup 0:nameSandwichCondiments,10.1
+reqInfoAboutMixedCheckboxThatIsNotChecked,ctrl+opt+f4,,,10.1
 reqInfoAboutMixedCheckboxThatIsChecked,ctrl+opt+f3,,,11
-reqInfoAboutMixedCheckboxThatIsChecked,ctrl+opt+f4,,0:roleGroup 0:nameSandwichCondiments,11.1
+reqInfoAboutMixedCheckboxThatIsChecked,ctrl+opt+f4,,,11.1
 operateMixedCheckbox,ctrl+opt+space,,,12
 operateMixedCheckbox,space,,,12.1
 operateUncheckedCheckbox,ctrl+opt+space,,,15
