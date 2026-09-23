@@ -1,5 +1,5 @@
 testId,command,settings,assertionExceptions,presentationNumber
-navForwardsToMixedCheckbox,ctrl+opt+right ctrl+opt+right,,,3
+navForwardsToMixedCheckbox,ctrl+opt+right ctrl+opt+right ctrl+opt+right,,,3
 navForwardsToMixedCheckbox,tab,,,3.1
 navForwardsToMixedCheckbox,j ,quickNavOn,,3.2
 navBackToMixedCheckbox,ctrl+opt+left,,,6
