@@ -3,7 +3,7 @@ author,metadata,Lola,
 authorEmail,metadata,lola@lolaslab.co,
 title,metadata,Disabled HTML Button Element,
 reference,metadata,reference/2026-8-12/disabled-button.html,Test Case Page for Disabled HTML Button Element
-designPattern,metadata,,
+designPattern,metadata,https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button#content,MDN Button Reference
 example,metadata,,
 @disabled,htmlAam,@disabled,@disabled
 button,htmlAam,button,button
