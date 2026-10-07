@@ -1,11 +1,9 @@
 testId,command,settings,assertionExceptions,presentationNumber
 navForwardsToDisabledButton,ctrl+opt+right,,,5
-navForwardsToDisabledButton,tab,,,5.1
-navForwardsToDisabledButton,j,singleQuickKeyNavOn,,5.2
-navForwardsToDisabledButton,b,singleQuickKeyNavOn,,5.3
+navForwardsToDisabledButton,j,singleQuickKeyNavOn,3:roleButton 3:namePrintPage 3:stateDisabled,5.2
+navForwardsToDisabledButton,b,singleQuickKeyNavOn,3:roleButton 3:namePrintPage 3:stateDisabled,5.3
 navBackToDisabledButton,ctrl+opt+left,,,6
-navBackToDisabledButton,shift+tab,,,6.1
-navBackToDisabledButton,shift+j,singleQuickKeyNavOn,,6.2
-navBackToDisabledButton,shift+b,singleQuickKeyNavOn,,6.3
+navBackToDisabledButton,shift+j,singleQuickKeyNavOn,3:roleButton 3:namePrintPage 3:stateDisabled,6.2
+navBackToDisabledButton,shift+b,singleQuickKeyNavOn,3:roleButton 3:namePrintPage 3:stateDisabled,6.3
 reqInfoAboutDisabledButton,ctrl+opt+f3,,,9
-reqInfoAboutDisabledButton,ctrl+opt+f4,,,9.1
+reqInfoAboutDisabledButton,ctrl+opt+f4,,3:roleButton 3:stateDisabled,9.1
