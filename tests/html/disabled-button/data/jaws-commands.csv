@@ -1,0 +1,9 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToDisabledButton,down,virtualCursor,,1
+navForwardsToDisabledButton,b,virtualCursor,3:roleButton 3:namePrintPage 3:stateDisabled,1.1
+navForwardsToDisabledButton,f,virtualCursor,3:roleButton 3:namePrintPage 3:stateDisabled,1.2
+navBackToDisabledButton,up,virtualCursor,,2
+navBackToDisabledButton,shift+b,virtualCursor,3:roleButton 3:namePrintPage 3:stateDisabled,2.1
+navBackToDisabledButton,shift+f,virtualCursor,3:roleButton 3:namePrintPage 3:stateDisabled,2.2
+reqInfoAboutDisabledButton,ins+tab,virtualCursor,3:roleButton 3:stateDisabled,7
+reqInfoAboutDisabledButton,ins+up,virtualCursor,,7.1
