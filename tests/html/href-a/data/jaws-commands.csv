@@ -1,0 +1,13 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToHrefA,down,virtualCursor,,1.0
+navForwardsToHrefA,u,virtualCursor,,1.1
+navForwardsToHrefA,tab,virtualCursor,,1.2
+navForwardsToHrefA,tab,pcCursor,,1.3
+navBackToHrefA,up,virtualCursor,,2.0
+navBackToHrefA,shift+u,virtualCursor,,2.1
+navBackToHrefA,shift+tab,virtualCursor,,2.2
+navBackToHrefA,shift+tab,pcCursor,,2.3
+reqInfoAboutHrefA,ins+tab,virtualCursor,,3.0
+reqInfoAboutHrefA,ins+up,virtualCursor,,3.1
+reqInfoAboutHrefA,ins+tab,pcCursor,,4.0
+reqInfoAboutHrefA,ins+up,pcCursor,,4.1

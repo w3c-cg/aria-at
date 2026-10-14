@@ -1,0 +1,4 @@
+setupScript,setupScriptDescription
+setFocusAfterHrefA,sets focus on a link after the anchor element under test
+setFocusBeforeHrefA,sets focus on a link before the anchor element under test
+setFocusOnHrefA,sets focus on the anchor element under test

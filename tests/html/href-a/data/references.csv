@@ -1,0 +1,9 @@
+refId,type,value,linkText
+author,metadata,mehm8128,
+authorEmail,metadata,mehm8128@gmail.com,
+title,metadata,HTML Anchor Element with href,
+reference,metadata,reference/2026-10-15/href-a.html,Test Case Page for HTML Anchor Element with href
+designPattern,metadata,https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a,MDN Anchor Reference
+example,metadata,https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a#examples,MDN Anchor Examples
+@href,htmlAam,@href,@href
+a,htmlAam,a,a

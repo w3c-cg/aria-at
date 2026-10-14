@@ -1,0 +1,15 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToHrefA,down,browseMode,,1.0
+navForwardsToHrefA,u,browseMode,,1.1
+navForwardsToHrefA,k,browseMode,,1.2
+navForwardsToHrefA,tab,browseMode,,1.3
+navForwardsToHrefA,tab,focusMode,,1.4
+navBackToHrefA,up,browseMode,,2.0
+navBackToHrefA,shift+u,browseMode,,2.1
+navBackToHrefA,shift+k,browseMode,,2.2
+navBackToHrefA,shift+tab,browseMode,,2.3
+navBackToHrefA,shift+tab,focusMode,,2.4
+reqInfoAboutHrefA,ins+tab,browseMode,,3.0
+reqInfoAboutHrefA,ins+up,browseMode,,3.1
+reqInfoAboutHrefA,ins+tab,focusMode,,4.0
+reqInfoAboutHrefA,ins+up,focusMode,,4.1

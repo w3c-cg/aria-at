@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>HTML Anchor Element with href</title>
+</head>
+<body>
+  <main>
+    <h1>HTML Anchor Element with href</h1>
+
+    <p>
+      The following example demonstrates a simple, native HTML
+      <a href="https://www.w3.org/TR/html-aam-1.0/#el-a"><code>&lt;a&gt;</code> element</a>
+      with an <code>href</code> attribute and no other attributes or styling that could change accessibility semantics.
+    </p>
+
+    <section>
+      <div class="example-header">
+        <h2 id="ex_label">Example</h2>
+      </div>
+
+      <div role="separator" id="ex_start_sep" aria-labelledby="ex_start_sep ex_label" aria-label="Start of"></div>
+
+      <div id="example">
+        <p>The <q>W3C website</q> link below uses a native <code>a</code> element with an <code>href</code> attribute.</p>
+        <a id="beforelink" href="#beforelink">Navigate forwards from here</a>
+        <div>
+          <a id="link" href="https://www.w3.org/">W3C website</a>
+        </div>
+        <a id="afterlink" href="#afterlink">Navigate backwards from here</a>
+      </div>
+
+      <div role="separator" id="ex_end_sep" aria-labelledby="ex_end_sep ex_label" aria-label="End of"></div>
+    </section>
+
+  </main>
+</body>
+</html>

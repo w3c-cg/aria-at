@@ -1,0 +1,9 @@
+testId,command,settings,assertionExceptions,presentationNumber
+navForwardsToHrefA,ctrl+opt+right,,,1
+navForwardsToHrefA,tab,,,1.1
+navForwardsToHrefA,l,singleQuickKeyNavOn,,1.2
+navBackToHrefA,ctrl+opt+left,,,2
+navBackToHrefA,shift+tab,,,2.1
+navBackToHrefA,shift+l,singleQuickKeyNavOn,,2.2
+reqInfoAboutHrefA,ctrl+opt+f3,,,3
+reqInfoAboutHrefA,ctrl+opt+f4,,,3.1

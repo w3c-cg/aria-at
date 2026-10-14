@@ -1,0 +1,4 @@
+testId,title,presentationNumber,setupScript,instructions,assertions
+navForwardsToHrefA,Navigate forwards to a link,1,setFocusBeforeHrefA,"Starting at the 'Navigate forwards from here' link, navigate to the 'W3C website' link.",roleLink nameW3cWebsite
+navBackToHrefA,Navigate backwards to a link,2,setFocusAfterHrefA,"Starting at the 'Navigate backwards from here' link, navigate to the 'W3C website' link.",roleLink nameW3cWebsite
+reqInfoAboutHrefA,Request information about a link,3,setFocusOnHrefA,"Starting at the 'W3C website' link, read information about the link.",roleLink nameW3cWebsite
